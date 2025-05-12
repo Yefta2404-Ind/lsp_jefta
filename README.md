@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # admin_sistem_akademik
 Projek untuk Sertifikasi LSP 
 >>>>>>> 201c5865a47a37a7060028a04a498d776b92210e
+=======
+# lsp_jefta
+>>>>>>> 40c65fa59c24be90ecc60d08369146a7098b9769
